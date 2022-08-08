@@ -31,6 +31,16 @@
         "display_type": "number",
         "trait_type": "Biome Limit",
         "value": 1
-      }
+      },
+        {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }
     ]
   }
