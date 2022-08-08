@@ -1,7 +1,8 @@
 {
     "name": "FAKE #5",
     "symbol": "FK",
-    "description": "Collection of 5 Fake Character. This is the number 5/5.",    
+    "description": "Collection of 5 Fake Character. This is the number 5/5.",
+    "animation_url": "https://wfp2002.github.io/myfirstgame2/",
     "external_url": "https://wfp2002.github.io/myfirstgame2/",
     "interactive_nft": {
       "code_uri": "https://wfp2002.github.io/myfirstgame2/",
