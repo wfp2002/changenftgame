@@ -1,0 +1,21 @@
+{
+    "name": "FAKE #5",
+    "symbol": "FK",
+    "description": "Collection of 5 Fake Character. This is the number 5/5.",
+    "seller_fee_basis_points": 1500,
+    "image": "4.png",
+    "dna":"AUGUUAUUCUUCUUCUUCCUUUUCCUACUCUUCCUCUUUCUCUUCCUCUUGCUGUUUUUGCUCUUUCUGUUCUUCUUCUUCUUCUUCUUCUUGUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCCUUAAGGUAGAUGAGCCGGCAUGGUAACCAUUUAGAGCAACGAACUUAUUCAUCUUGCCUCUCUCGCCAUUUUCCUUCUUCUUC",
+    "attributes": [
+        {"trait_type": "Background", "value": "4"},
+        {"trait_type": "Extra", "value": "3"},
+        {"trait_type": "ArmsExtra", "value": "1"},
+        {"trait_type": "ScarsFace", "value": 6},
+        {"trait_type": "Power4Damage", "value": "55"},
+        {"trait_type": "ScarsFace", "value": 6}
+    ],
+    "properties": {
+        "creators": [{"address": "TreqPucAfLrNFBtnhHPg3B1sKmCpqm7qk8hUZ1Fc38c", "share": 100}],
+        "files": [{"uri": "4.png", "type": "image/png"}]
+    },
+    "collection": {"name": "Fake Character", "family": "Season1"}
+}
