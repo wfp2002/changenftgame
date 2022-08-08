@@ -1,9 +1,14 @@
 {
     "name": "FAKE #5",
     "symbol": "FK",
-    "description": "Collection of 5 Fake Character. This is the number 5/5.",
+    "description": "Collection of 5 Fake Character. This is the number 5/5.",    
+    "external_url": "https://wfp2002.github.io/myfirstgame2/",
+    "interactive_nft": {
+      "code_uri": "https://wfp2002.github.io/myfirstgame2/",
+      "version": "1.0"
+    },
     "seller_fee_basis_points": 1500,
-    "image": "https://avatars.githubusercontent.com/u/8357542",
+    "image": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
     "dna":"AUGUUAUUCUUCUUCUUCCUUUUCCUACUCUUCCUCUUUCUCUUCCUCUUGCUGUUUUUGCUCUUUCUGUUCUUCUUCUUCUUCUUCUUCUUGUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCCUUAAGGUAGAUGAGCCGGCAUGGUAACCAUUUAGAGCAACGAACUUAUUCAUCUUGCCUCUCUCGCCAUUUUCCUUCUUCUUC",
     "attributes": [
         {"trait_type": "Background", "value": "4"},
