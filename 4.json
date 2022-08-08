@@ -2,10 +2,10 @@
     "name": "FAKE #5",
     "symbol": "FK",
     "description": "Collection of 5 Fake Character. This is the number 5/5.",
-    "animation_url": "https://wfp2002.github.io/myfirstgame2/",
-    "external_url": "https://wfp2002.github.io/myfirstgame2/",
+    "animation_url": "https://js13kgames.com/public/games/super-chrono-portal-maker/index.html",
+    "external_url": "https://js13kgames.com/public/games/super-chrono-portal-maker/index.html",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/myfirstgame2/",
+      "code_uri": "https://js13kgames.com/public/games/super-chrono-portal-maker/index.html",
       "version": "1.0"
     },
     "seller_fee_basis_points": 1500,
