@@ -1,11 +1,11 @@
 {
     "description": "This is game #2",
-    "external_url": "https://wfp2002.github.io/myfirstgame2/",
+    "external_url": "https://showcase.codethislab.com/games/penalty_kicks/",
     "image": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
     "name": "MyGame #2",
-    "animation_url": "https://wfp2002.github.io/myfirstgame2/",
+    "animation_url": "https://showcase.codethislab.com/games/penalty_kicks/",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/myfirstgame2/",
+      "code_uri": "https://showcase.codethislab.com/games/penalty_kicks/",
       "version": "1.0"
     },
     "attributes": [
