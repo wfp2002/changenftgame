@@ -1,11 +1,11 @@
 {
     "description": "This is JS Soccer Game #2",
-    "external_url": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
+    "external_url": "https://wfp2002.github.io/soccergame/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer2.jpg",
     "name": "MyGame #2",
-    "animation_url": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
+    "animation_url": "https://wfp2002.github.io/soccergame/",
     "interactive_nft": {
-      "code_uri": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
+      "code_uri": "https://wfp2002.github.io/soccergame/",
       "version": "1.0"
     },
     "attributes": [
