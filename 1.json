@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer Game New #2",
-    "external_url": "https://soccer.frvr.com/",
+    "description": "This is JS Soccer Game #2",
+    "external_url": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer2.jpg",
     "name": "MyGame #2",
-    "animation_url": "https://soccer.frvr.com/",
+    "animation_url": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
     "interactive_nft": {
-      "code_uri": "https://soccer.frvr.com/",
+      "code_uri": "https://cdn-factory.marketjs.com/en/penalty-kick-game/index.html",
       "version": "1.0"
     },
     "attributes": [
