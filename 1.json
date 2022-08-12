@@ -1,11 +1,11 @@
 {
     "description": "This is Soccer Game New #2",
-    "external_url": "https://poki.com/en/g/penalty-shooters",
+    "external_url": "https://soccer.frvr.com/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer.jpg",
     "name": "MyGame #2",
-    "animation_url": "https://poki.com/en/g/penalty-shooters",
+    "animation_url": "https://soccer.frvr.com/",
     "interactive_nft": {
-      "code_uri": "https://poki.com/en/g/penalty-shooters",
+      "code_uri": "https://soccer.frvr.com/",
       "version": "1.0"
     },
     "attributes": [
