@@ -1,11 +1,11 @@
 {
-    "description": "This is New Soccer Game #2",
-    "external_url": "https://wfp2002.github.io/soccerpenalty/",
+    "description": "This is Soccer Game #2",
+    "external_url": "https://html5-games.io/game/penalty-kick-online/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer4.jpg",
     "name": "Soccer #2",
-    "animation_url": "https://wfp2002.github.io/soccerpenalty/",
+    "animation_url": "https://html5-games.io/game/penalty-kick-online/",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/soccerpenalty/",
+      "code_uri": "https://html5-games.io/game/penalty-kick-online/",
       "version": "1.0"
     },
     "attributes": [
