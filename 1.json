@@ -1,11 +1,11 @@
 {
     "description": "This is Soccer Game #2",
-    "external_url": "https://wfp2002.github.io/soccerpenalty/",
+    "external_url": "https://robowhale.com/html5/mr-driller/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer4.jpg",
     "name": "Soccer #2",
-    "animation_url": "https://wfp2002.github.io/soccerpenalty/",
+    "animation_url": "https://robowhale.com/html5/mr-driller/",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/soccerpenalty/",
+      "code_uri": "https://robowhale.com/html5/mr-driller/",
       "version": "1.0"
     },
     "attributes": [
