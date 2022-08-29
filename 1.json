@@ -1,11 +1,11 @@
 {
     "description": "This is Soccer GameV3 #2",
-    "external_url": "https://wfp2002.github.io/soccermenu2022v3/",
+    "external_url": "https://wfp2002.github.io/soccer2022v5/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer5.jpg",
     "name": "Soccer Menu V3 #2",
-    "animation_url": "https://wfp2002.github.io/soccermenu2022v3/",
+    "animation_url": "https://wfp2002.github.io/soccer2022v5/",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/soccermenu2022v3/",
+      "code_uri": "https://wfp2002.github.io/soccer2022v5/",
       "version": "1.0"
     },
     "attributes": [
