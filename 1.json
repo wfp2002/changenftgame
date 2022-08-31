@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer GameV7 #2",
-    "external_url": "https://soccer2022v7.vercel.app/",
+    "description": "This is Soccer GameV8 #2",
+    "external_url": "https://soccer2022v8.vercel.app/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer5.jpg",
-    "name": "Soccer Menu V7 #2",
-    "animation_url": "https://soccer2022v7.vercel.app/",
+    "name": "Soccer Menu V8 #2",
+    "animation_url": "https://soccer2022v8.vercel.app/",
     "interactive_nft": {
-      "code_uri": "https://soccer2022v7.vercel.app/",
+      "code_uri": "https://soccer2022v8.vercel.app/",
       "version": "1.0"
     },
     "attributes": [
