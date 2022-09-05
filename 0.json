@@ -1,11 +1,11 @@
 {
-    "description": "This is game #1",
-    "external_url": "https://wfp2002.github.io/myfirstgame2/",
-    "image": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
-    "name": "MyGame #1",
-    "animation_url": "https://wfp2002.github.io/myfirstgame2/",
+    "description": "This is Soccer GameV11 #1",
+    "external_url": "https://soccer2022v11.vercel.app/?id=NFTBUD1",
+    "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer5.jpg",
+    "name": "Soccer Menu V11 #id=NFTBUD1",
+    "animation_url": "https://soccer2022v11.vercel.app/?id=NFTBUD1",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/myfirstgame2/",
+      "code_uri": "https://soccer2022v11.vercel.app/?id=NFTBUD1",
       "version": "1.0"
     },
     "attributes": [
@@ -31,16 +31,6 @@
         "display_type": "number",
         "trait_type": "Biome Limit",
         "value": 1
-      },
-        {
-      "display_type": "boost_number", 
-      "trait_type": "Aqua Power", 
-      "value": 40
-    }, 
-    {
-      "display_type": "boost_percentage", 
-      "trait_type": "Stamina Increase", 
-      "value": 10
-    }
+      }
     ]
   }
