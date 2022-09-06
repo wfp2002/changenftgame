@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer GameV15 #1",
-    "external_url": "https://wfp2002.github.io/myfirstgame2/",
+    "description": "This is Soccer GameV14 #1",
+    "external_url": "https://soccer2022v14.vercel.app/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer5.jpg",
-    "name": "Soccer Menu V15 #id=NFTBUD1",
-    "animation_url": "https://wfp2002.github.io/myfirstgame2/",
+    "name": "Soccer Menu V14 #id=NFTBUD1",
+    "animation_url": "https://soccer2022v14.vercel.app/",
     "interactive_nft": {
-      "code_uri": "https://wfp2002.github.io/myfirstgame2/",
+      "code_uri": "https://soccer2022v14.vercel.app/",
       "version": "1.0"
     },
     "attributes": [
