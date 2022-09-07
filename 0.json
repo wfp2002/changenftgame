@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer GameV16 #1",
-    "external_url": "https://sovver2022v16.vercel.app/",
+    "description": "This is Soccer GameV17 #1",
+    "external_url": "https://sovver2022v17.vercel.app/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer5.jpg",
-    "name": "Soccer Menu V16 #id=NFTBUD1",
-    "animation_url": "https://sovver2022v16.vercel.app/",
+    "name": "Soccer Menu V17 #id=NFTBUD1",
+    "animation_url": "https://sovver2022v17.vercel.app/",
     "interactive_nft": {
-      "code_uri": "https://sovver2022v16.vercel.app/",
+      "code_uri": "https://sovver2022v17.vercel.app/",
       "version": "1.0"
     },
     "attributes": [
