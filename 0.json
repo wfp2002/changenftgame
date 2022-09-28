@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer Final v22",
+    "description": "This is Soccer Final v23",
     "external_url": "https://www.budweiser.com/",
     "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer6.jpg",
-    "name": "Soccer Menu Final V22 #1",
-    "animation_url": "https://soccer2022v22.vercel.app/?id=NFTBUD1",
+    "name": "Soccer Menu Final V23 #1",
+    "animation_url": "https://soccer2022v23.vercel.app/?id=NFTBUD1",
     "interactive_nft": {
-      "code_uri": "https://soccer2022v22.vercel.app/?id=NFTBUD1",
+      "code_uri": "https://soccer2022v23.vercel.app/?id=NFTBUD1",
       "version": "1.0"
     }
   }
