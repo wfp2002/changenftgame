@@ -1,11 +1,11 @@
 {
-    "description": "This is Soccer Final V24",
+    "description": "This is NFT Ads",
     "external_url": "https://www.budweiser.com/",
-    "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/soccer6.jpg",
+    "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
     "name": "Soccer Menu Final V24 #2",
-    "animation_url": "https://soccer2022v24.vercel.app/?id=NFTBUD2",
+    "animation_url": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
     "interactive_nft": {
-      "code_uri": "https://soccer2022v24.vercel.app/?id=NFTBUD2",
+      "code_uri": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
       "version": "1.0"
     },
     "attributes": [
