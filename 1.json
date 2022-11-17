@@ -1,11 +1,11 @@
 {
-    "description": "This is NFT Ads",
+    "description": "CT MAP",
     "external_url": "https://www.budweiser.com/",
-    "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
-    "name": "Soccer Menu Final V24 #2",
-    "animation_url": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
+    "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/ereo.png",
+    "name": "CT MAP",
+    "animation_url": "https://ctmap.vercel.app/",
     "interactive_nft": {
-      "code_uri": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/image.gif",
+      "code_uri": "https://ctmap.vercel.app/",
       "version": "1.0"
     },
     "attributes": [
