@@ -3,7 +3,7 @@
         "symbol": "ST",
         "description": "Collection of 7500 Stranger NFThings Character. This is the number 10/7500.",
         "seller_fee_basis_points": 1500,
-        "image": "9.png",
+        "image": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/9.png",
         "dna":"AUGUUAUUUUUCUUAUUACUGUUCCUGCUUCUACUACUUCUCUUCCUUCUCCUUUUCCUCUUGUUCCUCUUCUUCUUCUUCUUCUUCUUCUUUUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCGUCGGAAACCGCCAGGUACAUCAAAAAGUUCGACGAGUUUUACGAAUAUUCGCUCUACUCAAUGCGCUAGAUGUUUUCUUCUUC",
         "BirthDate":1657646132,
         "Generation":0,
@@ -38,7 +38,7 @@
         ],
         "properties": {
             "creators": [{"address": "TrerJLdmg84Dbn9iSsvzB6TeFVffKRcXC7f4Pwc5vRD", "share": 100}],
-            "files": [{"uri": "9.png", "type": "image/png"}]
+            "files": [{"uri": "https://raw.githubusercontent.com/wfp2002/changenftgame/main/9.png", "type": "image/png"}]
         },
         "collection": {"name": "Stranger NFThings", "family": "Season1"}
     }
